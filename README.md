@@ -26,6 +26,8 @@ any feature.
 3. Configure the Google Mobile Ads app ID for each platform. This is the app
    ID (`ca-app-pub-...~...`), not an ad unit ID.
 
+4. “Tested with google_mobile_ads ^9.2.0, Flutter 3.38.1 أو أحدث”.
+
 ### Android
 
 Add the app ID within `<application>` in
